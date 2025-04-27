@@ -46,14 +46,4 @@ Always passionate about learning and contributing to the world of open-source te
 
 ---
 
-### 👁️‍🗨️ Profile Visitor Counter
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SofyanSuri&color=blueviolet)
-
-</div>
-
----
-
 > "Coding, Error, Repeat." 🚀
