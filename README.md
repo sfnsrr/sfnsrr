@@ -36,16 +36,6 @@ Always passionate about learning and contributing to the world of open-source te
 
 ---
 
-### 🐍 Snake Contributions
-
-<div align="center">
-
-![snake gif](https://github.com/SofyanSuri/SofyanSuri/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
