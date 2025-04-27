@@ -15,15 +15,11 @@ Always passionate about learning and contributing to the world of open-source te
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
+### 🛠️ Tech Stack
 
 | Frontend | Backend | Database | DevOps & Tools |
 |:--------:|:-------:|:--------:|:--------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <br> HTML5 <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <br> CSS3 <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <br> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <br> PHP <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> <br> Laravel <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <br> Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <br> MySQL <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <br> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <br> Docker <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/> <br> Nginx <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/> <br> Grafana <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40"/> <br> Prometheus <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <br> GitHub <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <br> VS Code |
-
-</div>
+| HTML5 <br> CSS3 <br> JavaScript | PHP <br> Laravel <br> Node.js | MySQL <br> PostgreSQL | Docker <br> Nginx <br> Grafana <br> Prometheus <br> GitHub <br> VS Code |
 
 ---
 
