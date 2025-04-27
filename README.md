@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I am a Computer Information Technology student majoring in Computer and Network Engineering Technology.  
+I am a Information Computer Technology student majoring in Computer and Network Engineering Technology.  
 Currently, I am deepening my skills in web development.  
 Always passionate about learning and contributing to the world of open-source technology!
 
