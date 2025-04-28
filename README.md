@@ -31,10 +31,23 @@ Always passionate about learning and contributing to the world of open-source te
 
 <div align="center">
 
+<table>
+<tr>
+<td>
 <img src="https://github-readme-stats.vercel.app/api?username=SofyanSuri&show_icons=true&theme=tokyonight" height="180px" alt="GitHub Stats"/>
+</td>
+<td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SofyanSuri&theme=tokyonight" height="180px" alt="GitHub Streak"/>
-<br/>
+</td>
+<td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanSuri&layout=compact&theme=tokyonight" height="180px" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SofyanSuri&theme=tokyo-night" alt="GitHub Activity Graph" />
 
 </div>
 
