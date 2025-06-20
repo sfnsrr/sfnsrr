@@ -1,58 +1,210 @@
-<h1 align="center">
-  Sofyan Suri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&multiline=true&duration=2500&pause=800&deleteSpeed=0&repeat=false&height=100&lines=Welcome+to+my+GitHub!;Web+Dev+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-I am a Computer Information Technology student majoring in Computer and Network Engineering Technology.  
-Currently, I am deepening my skills in web development.  
-Always passionate about learning and contributing to the world of open-source technology!
-
----
-
-### 📈 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SofyanSuri&theme=tokyonight" alt="GitHub Profile Details"/>
-<br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SofyanSuri&theme=tokyonight" alt="Most Used Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SofyanSuri&theme=tokyonight" alt="GitHub Stats"/>
+# 🌟 Sofyan Suri
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Computer+%26+Network+Engineer;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+## 🚀 About Me
+
+```json
+{
+  "name": "Sofyan Suri",
+  "role": "Full-Stack Developer",
+  "education": "Computer Information Technology",
+  "specialization": "Computer & Network Engineering",
+  "location": "Indonesia 🇮🇩",
+  "languages": ["Indonesian", "English"],
+  "current_status": "Student & Developer",
+  "interests": [
+    "Web Development",
+    "Open Source",
+    "Cloud Computing",
+    "Network Security"
+  ],
+  "motto": "Build, Learn, Repeat 🔄"
+}
+```
+
+</td>
+<td width="50%" valign="top">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SofyanSuri&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" />
+
+</td>
+s</table>
+
+---
 
 <div align="center">
 
-| Frontend | Backend | Database | DevOps & Tools |
-|:--------:|:-------:|:--------:|:--------------:|
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> |  | <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> |  |  | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/> |
-|  |  |  | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> |
-|  |  |  | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> |
+## 🛠️ Technology Stack
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**Frontend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" />
+
+</td>
+<td align="center" width="25%">
+
+**Backend**
+<br><br>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,java" />
+
+</td>
+<td align="center" width="25%">
+
+**Database**
+<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+
+</td>
+<td align="center" width="25%">
+
+**DevOps & Tools**
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,grafana" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📈 Development Activity
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SofyanSuri&theme=github_dark" />
+</div>
+
+---
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=SofyanSuri&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
+
+</td>
+<td width="50%" align="center">
+
+## 📱 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanSuri&layout=donut&theme=react&hide_border=true&bg_color=1F222E&title_color=6C63FF&text_color=ffffff&langs_count=8" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🔭 Working On**
+<br>
+Advanced Laravel Applications
+<br>
+React Component Libraries
+
+</td>
+<td align="center" width="33%">
+
+**🌱 Learning**
+<br>
+Cloud Architecture (AWS)
+<br>
+Microservices Design
+
+</td>
+<td align="center" width="33%">
+
+**🤝 Collaborating**
+<br>
+Open Source Projects
+<br>
+Developer Communities
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🌐 Connect With Me
-
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/sfnsrr)
+## 🌐 Let's Connect
+
+<a href="https://instagram.com/sfnsrr">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/sofyan-suri">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sofyansuri@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://sofyansuri.dev">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-> "Coding, Error, Repeat." 🚀
+<div align="center">
+
+## 💡 Fun Facts
+
+**⚡ Quick Facts:**
+- 🔧 I can fix almost any bug with enough coffee ☕
+- 🌙 Night owl developer - best code happens after midnight
+- 🎮 Gaming enthusiast when not coding
+- 📚 Always reading tech blogs and documentation
+- 🏃‍♂️ Debugging is my cardio
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+
+<div align="center">
+  
+  ### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  
+  **Thanks for stopping by! Let's build something amazing together.** 🚀
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
+  
+</div>
