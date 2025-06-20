@@ -97,7 +97,7 @@
 
 <table align="center">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top">
 
 ## 🏆 Achievements
 
