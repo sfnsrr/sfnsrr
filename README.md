@@ -163,14 +163,11 @@ Developer Communities
 <a href="https://instagram.com/sfnsrr">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/sofyan-suri">
+<a href="https://www.linkedin.com/in/sofyan-suri-422b57368/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:sofyansuri@example.com">
+<a href="mailto:sofyansuri.401@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://sofyansuri.dev">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 </div>
