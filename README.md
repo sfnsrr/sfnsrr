@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Sofyan Suri
+#  Sofyan Suri
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Computer+%26+Network+Engineer;Full-Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
