@@ -97,18 +97,11 @@
 
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="100%" align="center" valign="top">
 
 ## 🏆 Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=SofyanSuri&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
-
-</td>
-<td width="50%" align="center">
-
-## 📱 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyanSuri&layout=donut&theme=react&hide_border=true&bg_color=1F222E&title_color=6C63FF&text_color=ffffff&langs_count=8" />
 
 </td>
 </tr>
