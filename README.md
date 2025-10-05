@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SofyanSuri&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sfnsrr&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true" />
 
 </td>
 </table>
@@ -87,7 +87,7 @@
 
 ## 📈 Development Activity
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SofyanSuri&theme=github_dark" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sfnsrr&theme=github_dark" />
 </div>
 
 ---
@@ -98,7 +98,7 @@
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=SofyanSuri&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=sfnsrr&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </td>
 </tr>
